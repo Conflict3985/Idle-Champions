@@ -1,0 +1,64 @@
+{
+	"Addon Order":[
+		{
+			"Name":"Addon Example",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"About",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Version":"v0.1.0"
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Version":"v1.1.1"
+		},
+		{
+			"Name":"Briv Gem Farm Potato",
+			"Version":"v1.0.1"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Version":"v1.0.3"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Game Location Settings",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Inventory View",
+			"Version":"v0.1.1"
+		},
+		{
+			"Name":"Jimothy",
+			"Version":"v1.0.2"
+		},
+		{
+			"Name":"Memory Functions",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Memory Functions Full Read",
+			"Version":"v0.1."
+		}
+	],
+	"Briv Gem Farm":{
+		"Enabled":1,
+		"Version":"v1.1.1"
+	},
+	"Briv Gem Farm Stats":{
+		"Enabled":1,
+		"Version":"v1.0.3"
+	},
+	"Game Location Settings":{
+		"Enabled":1,
+		"Version":"v0.1."
+	}
+}
